@@ -1,0 +1,8 @@
+.mt-custom{
+    margin-top: 6rem;
+}
+
+.radio-buttons {
+    display: flex;
+    gap: 15px;
+}
